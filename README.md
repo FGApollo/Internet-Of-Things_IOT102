@@ -1,4 +1,4 @@
-# 🚪 IoT Smart Access & Safety System
+# 🚪 IoT Smart Home
 
 This project is an **IoT-based Smart Access Control and Safety System** combining **Arduino UNO + ESP8266** with multiple sensors and actuators.  
 It focuses on **RFID-based authentication**, **gas (CO) detection**, **obstacle/motion detection**, and **web-based monitoring**.
